@@ -10,3 +10,14 @@ h1,p,h2{
 body{
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
+.item p{
+  display: inline-block;
+}
+.flavour{
+    text-align: left;  
+    width:75%
+}
+.price{
+    text-align: right;  
+    width: 25%
+}
