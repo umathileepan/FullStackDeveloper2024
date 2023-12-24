@@ -54,7 +54,24 @@ footer{
 a{
     color:black;
 }
-
+a:visited{
+    color:black;
+}
+a:hover{
+    color:brown;
+}
+a:active{
+    color:brown;
+}
 .bottom-line{
     margin-top: 20px;
+}
+.address{
+    margin-bottom: 5px;
+}
+img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-25px;
 }
