@@ -5,7 +5,7 @@ html{
     font-size: 16px;
 }
 body{
-    font-family: sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .label{
     width:270px;
@@ -64,4 +64,10 @@ h2{
 }
 .double-intend{
     margin-left: 2em;
+}
+.note{
+    font-size: 0.6rem;
+    margin-bottom: 5px;
+    padding:0 8px;
+    text-indent: -8px;
 }
