@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 80vh;
+  }
+  #main{
+    width: 100%;
+    background-color: rgb(220,220,220);
+    margin: 3rem 1rem;
+  }
+  header{
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0;
+  }
+  #img-div{
+    background-color: #ffffff;
+    width: 90%;
+    height: 300px;
+    margin: 0 20px;
+  
+  }
+  #image{
+    width: 80%;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  #img-caption{
+    margin: 10px auto;
+    text-align: center;
+  }
+  img{
+    display:block;
+  }
