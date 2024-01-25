@@ -1,0 +1,31 @@
+html{
+    box-sizing: border-box;
+}
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+#piano{
+    background-color: #032f03;
+    width: 982px;
+    height: 290px;
+    padding: 90px 0 20px 20px;
+    margin: 80px auto;
+    
+    overflow: hidden;
+}
+.keys{
+    background-color: #0e0d0d;
+    width: 890px;
+    height: 170px;   
+    position:absolute;
+    
+}
+.key{
+    background-color: #ffffff;
+    width: 42px;
+    height: 170px; 
+    margin: 2px;
+    float: left;
+    position: relative;
+    
+}
